@@ -1,0 +1,17 @@
+body{
+    background-image: url(assets/bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    overflow: scroll;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+nav{
+    margin-top: 20px;
+    padding-right: 55px;
+}
